@@ -1,5 +1,4 @@
 # hello-world
-Introduction to Github
 
 My name is Ian Lefcourte and I am learning the different features of Github.
 
